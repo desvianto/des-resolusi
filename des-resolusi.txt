@@ -2,3 +2,5 @@ DES RESOLUSI
 - konsisten 
 - membuat website
 - simple
+- test 
+
